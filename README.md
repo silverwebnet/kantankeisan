@@ -1,0 +1,2 @@
+# kantankeisan
+かんたん計算
